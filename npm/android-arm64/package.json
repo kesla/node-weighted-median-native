@@ -1,0 +1,18 @@
+{
+  "name": "weighted-median-native-android-arm64",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "weighted-median-native.android-arm64.node",
+  "files": [
+    "weighted-median-native.android-arm64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "weighted-median-native-linux-arm64-gnu",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "weighted-median-native.linux-arm64-gnu.node",
+  "files": [
+    "weighted-median-native.linux-arm64-gnu.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "libc": [
+    "glibc"
+  ]
+}
